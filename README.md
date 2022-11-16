@@ -26,9 +26,9 @@ Our game will be released on PC. We will use Unity Game Engine and C# language d
 ### First tasks to do...
 - [x] Create project repository and learn how to work with Unity
 - [x] Create README file about game
-- [ ] Create sample level with player and two simple enemies
-- [ ] Implement movement and shooting for player and enemies
-- [ ] Player can kill enemies and enemies can kill player
+- [x] Create sample level with player and enemy
+- [x] Implement movement and shooting for player and enemy
+- [x] Player can kill enemies and enemies can kill player
 - [ ] Create dungeon room editor
 - [ ] Set-up main game scene
 - [ ] Create dungeon room templates
