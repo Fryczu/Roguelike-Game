@@ -51,6 +51,11 @@ public class PlayerController : MonoBehaviour
         {
             weapon.Fire();
         }
+
+        if(Input.GetKeyDown(KeyCode.R))
+        {
+            weapon.Reload();
+        }
     }
 
     public void TakeDamage(float damageAmount)
